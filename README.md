@@ -1,2 +1,2 @@
-# vue2&webpack
- vue2+webpack搭建项目基架
+# vue2&typescript
+vue2+webpack不使用脚手架搭建项目
